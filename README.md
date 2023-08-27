@@ -1,2 +1,2 @@
-# Algorithms-practice
-Stanford Online Algorithms Courses 
+# Algorithms Implementations
+Implementation for basic algos
